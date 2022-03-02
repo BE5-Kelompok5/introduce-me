@@ -1,3 +1,14 @@
+
+# Materi 
+## Navis Abdullah Farhan
+### Security
+### Golang
+### dan yang berkaitan dengan Backend lainnya
+
+# Career Plan
+## Navis Abdullah Farhan
+### Backend Developer
+=======
 # Materi
 ## Yoga Cahya Romadhon
 ### Microservice & DevOps
@@ -13,3 +24,4 @@ Mempelajari ilmu web security sehingga dari ilmu tersebut bisa diimplementasikan
 Pandangan awal saya yaitu minimal cukup menjadi back-end developer saja yang kerjaannya membuat API, karena memang saya kurang suka mengurusi segala hal yang berbau desain.
 ### Full-stack Developer
 Kalau memang memungkinkan untuk belajar front-end juga serta beberapa skill pendukung lain seperti devops dll, saya ingin meningkatkan harapan karir yaitu menjadi full-stack developer, dengan catatan saya tidak membuat desain aplikasi sendiri (sudah diurus bagian UI/UX Designer).
+
