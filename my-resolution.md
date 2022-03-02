@@ -1,3 +1,12 @@
+rafi-introduce-me
+# Materi
+## Rafi
+### Phyton
+### Penetration Testing
+# Career Plan
+## Rafi
+### Fullstack Developer
+=======
 
 # Materi 
 ## Navis Abdullah Farhan
@@ -25,3 +34,4 @@ Pandangan awal saya yaitu minimal cukup menjadi back-end developer saja yang ker
 ### Full-stack Developer
 Kalau memang memungkinkan untuk belajar front-end juga serta beberapa skill pendukung lain seperti devops dll, saya ingin meningkatkan harapan karir yaitu menjadi full-stack developer, dengan catatan saya tidak membuat desain aplikasi sendiri (sudah diurus bagian UI/UX Designer).
 
+main
